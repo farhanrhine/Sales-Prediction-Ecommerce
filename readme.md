@@ -1,7 +1,7 @@
-
 # Workflow of project
-1. import libraries
-2. get data 
+
+1. import libraries.
+2. get data
 3. do basic operation to understand data
 4. clean and do EDA part
 5. Feature enginnering
