@@ -23,6 +23,8 @@ import os
 import pickle
 
 
+
+
 base_dir = os.path.dirname(os.path.abspath(__file__))  # Gets the path of app.py
 
 scaler_path = os.path.join(base_dir, '..', 'Notebook', 'scaler.pkl')
